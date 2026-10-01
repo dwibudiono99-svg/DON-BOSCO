@@ -1,0 +1,8 @@
+{
+  "name": "Remix SIMPEG SMAN 9 SURABAYA",
+  "description": "Sistem Informasi Kepegawaian SMA Negeri untuk pengelolaan data guru, pendidik, dan tenaga kependidikan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
